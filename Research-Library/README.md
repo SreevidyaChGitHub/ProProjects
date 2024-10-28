@@ -1,4 +1,4 @@
-# Research-Library
+# Research Library
 
 <b>Client: </b>Merrill Lynch Inc (Bank of America), US<br/>
 
