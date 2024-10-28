@@ -1,4 +1,4 @@
-# BW-Appraisal-Tool
+# BW Appraisal Tool
 
 <b>Description:</b><br/>
 
