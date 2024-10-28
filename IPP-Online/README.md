@@ -1,4 +1,4 @@
-# IPP-Online
+# IPP Online
 
 <b>Client:</b> Softgate Systems (IPP of America Inc.), US<br/>
 
