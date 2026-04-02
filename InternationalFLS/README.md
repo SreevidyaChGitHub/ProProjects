@@ -3,25 +3,15 @@
 <b>Client:</b> Bank of Nova Scotia, Toronto, Canada <br/>
 
 <b>Project Description:</b>
-Facility Link System is an existing application which serves Domestic customers i.e. Canada customers.
-International Facility Link System is an application which is extended to support customers from other
-countries as well.  <br/>
- Scotia bank is required to collect and report loan information for each international subsidiary.
-The Authorized Facility amounts for International exposures are recorded in CARDS. The main objective
-is to link the loan/ transaction records booked in International Loan, Retail and other Banking Systems to
-its matching customer and facility information stored in the CARDS application to achieve a more
-accurate calculation of regulatory capital. To support this, the existing Facility Link application is
-enhanced and implemented at International Locations to create linkages between the above mentioned
-systems. This enhanced application supports Spanish version as well. It has modules like Admin, Search,
-Linkage, Approval and Extract modules.
+The Facility Link System is an existing platform used to manage facility and loan information for domestic customers. The International Facility Link System extends this functionality to support global subsidiaries. Its purpose is to link loan and transaction records from various international banking systems to corresponding customer and facility data stored in the CARDS application, enabling accurate regulatory capital calculations. <br/>
 
-<b>Contribution as a Team member</b>
-- Analysing the requirements assigned and preparing low-level design(LLD) document.
-- Coding using ASP.NET, C#, Java Script.
-- Working with SQL Server - databases, tables, views, stored procedures, user-defined functions etc.
-- Developing SSIS packages in SQL Server 2005 and prepared installation guides to deploy them
-successfully in the production.
-- Preparing MSI and Installation documents for regular dev builds.
-- Preparing Quality documents to improve project performance and attending regular quality audits
-conducted by the PPM team. 
-- Unit Testing, Integration System testing and Bug fixing.
+The enhanced system was deployed across international locations and includes multilingual support (including Spanish). Key modules include Administration, Search, Linkage, Approval, and Extract.
+
+ <b>Contribution as a Team member</b>
+- Translated functional requirements into clear low‑level design (LLD) documents to support development and implementation.
+- Developed application features using ASP.NET, C#, and JavaScript, ensuring maintainable and efficient code.
+- Worked extensively with SQL Server, including designing and optimizing databases, tables, views, stored procedures, and user‑defined functions.
+- Built and maintained SSIS packages (SQL Server 2005) to support data integration workflows, and created deployment guides for smooth production rollout.
+- Prepared MSI installers and accompanying installation documentation for regular development builds.
+- Contributed to quality assurance activities, including preparing quality documentation and participating in audits conducted by the PPM team.
+- Performed unit testing, integration testing, and defect resolution, ensuring stable and reliable application releases.
