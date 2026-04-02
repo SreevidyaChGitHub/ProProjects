@@ -2,7 +2,8 @@
 
 <b>Client:</b> Bank of Nova Scotia, Toronto, Canada <br/>
 
-<b>Project Description:</b>
+<b>Description:</b>  <br/>
+
 The Facility Link System is an existing platform used to manage facility and loan information for domestic customers. The International Facility Link System extends this functionality to support global subsidiaries. Its purpose is to link loan and transaction records from various international banking systems to corresponding customer and facility data stored in the CARDS application, enabling accurate regulatory capital calculations. <br/>
 
 The enhanced system was deployed across international locations and includes multilingual support (including Spanish). Key modules include Administration, Search, Linkage, Approval, and Extract.
