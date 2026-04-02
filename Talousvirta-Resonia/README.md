@@ -11,8 +11,7 @@ User interfaces of both the applications are developed using React which makes c
 services which in turn communicate with the backend for the processing.<br/>
 
 <b>Responsibilities as a Developer Trainee</b>
-- Understanding of the applications by observing their behavior.
-- Understanding of the backend APIs developed in C#.NET and testing them with the help of a
-tool called Postman.
-- Understanding of the SQL stored procedures used to develop the business logic.
-
+- Tested the application functionality while focusing on backend behavior, API responses, and data flow.
+- Validated C#.NET Web APIs using Postman, gaining an understanding of request/response flows, error handling, and backend–database interactions.
+- Analyzed SQL stored procedures and database logic to understand how business rules were implemented and how data was processed.
+- Collaborated with senior developers to understand coding standards and the architecture of the project.
